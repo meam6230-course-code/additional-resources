@@ -1,7 +1,7 @@
 # additional-resources
 All the libraries and code for SEDS, LPV-DS, different GMM estimation techniques, different modulation approaches and compliant control techniques have been provided in Matlab for the course homeworks in [https://github.com/meam6230-course-code/meam6230-hw](https://github.com/meam6230-course-code/meam6230-hw). 
 
-Yet, many of these approaches have open-source implementations in Python and/or C++ that could be easier to integrate into your simulation for the final project. Hence, below we provide a list of Python and C++ implementations of the different techniques we have seen in class as well as the most recent improvements. 
+Yet, many of these approaches have open-source implementations in Python and/or C++ that could be easier to integrate into your simulation for the final project. Hence, below we provide a list of Python and C++ implementations of the different techniques we have seen in class as well as the most recent improvements and other useful libraries. 
 
 - **standalone lpv-ds optimization (matlab):** The LPV-DS optimization algorithm used in the homeworks can be found as a stand-alone repository here [ds-opt](https://github.com/nbfigueroa/ds-opt)
 - **standalone lpv-ds optimization (python):** A python version of the above using CVXPY can be found here [ds-opt-py](https://github.com/penn-figueroa-lab/ds-opt-py) and [lpvds](https://github.com/penn-figueroa-lab/lpvds)
